@@ -97,3 +97,9 @@ This guide will show you how to set up an affordable, self-hosted environment on
    * **Value:** Public IP of your Lightsail instance
 4. Save changes — traffic to `subdomain.domain` will now route to your app.
 
+
+---
+
+### 6. Presentation
+
+📑 [View the full presentation here](https://docs.google.com/presentation/d/e/2PACX-1vTaHYZ5QpbDvpHfhtQ7_t_X1Y9qmqi2xRoiy1vx7Z40jb6vLYtzphqAGbkrXtONTszhe8BXqUBmbsDd/pub?start=false&loop=false&delayms=3000)
